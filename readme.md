@@ -1,21 +1,46 @@
-📘 AI Project Template
-<p align="center"> <img src="docs/logo.png" alt="AI Project Template Logo" width="120"/> </p> <p align="center"> 🚀 A reusable and scalable template for AI & Data Engineering projects, designed with best practices for MLOps and DataOps. </p> <p align="center"> <a href="https://github.com/your-username/ai-project-template/releases"><img src="https://img.shields.io/github/v/release/your-username/ai-project-template?color=blue" alt="release"/></a> <a href="https://pypi.org/project/"><img src="https://img.shields.io/pypi/v/pandas?label=Python&color=green" alt="python"/></a> <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> <a href="https://github.com/your-username/ai-project-template"><img src="https://img.shields.io/github/stars/your-username/ai-project-template?style=social" alt="stars"/></a> </p>
-✨ Why this template?
+# 📘 AI Project Template
 
-This project template gives you a production-ready structure for AI & Data Engineering projects.
+<p align="center">
+  <img src="docs/logo.png" alt="AI Project Template Logo" width="120"/>
+</p>
+
+<p align="center">
+  🚀 A reusable and scalable template for AI & Data Engineering projects, designed with best practices for MLOps and DataOps.
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-username/ai-project-template/releases">
+    <img src="https://img.shields.io/github/v/release/your-username/ai-project-template?color=blue" alt="release"/>
+  </a>
+  <a href="https://pypi.org/project/">
+    <img src="https://img.shields.io/pypi/v/pandas?label=Python&color=green" alt="python"/>
+  </a>
+  <a href="https://colab.research.google.com/">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
+  <a href="https://github.com/your-username/ai-project-template">
+    <img src="https://img.shields.io/github/stars/your-username/ai-project-template?style=social" alt="stars"/>
+  </a>
+</p>
+
+---
+
+## ✨ Why this template?
+
+This project template gives you a **production-ready structure** for AI & Data Engineering projects.  
 No need to reinvent the wheel — just clone and start building.
 
-Key Benefits:
+**Key Benefits:**
+- ⚡ **2–3x faster start** – skip boilerplate setup  
+- 🔧 **General-purpose** – works for Data, ML, and AI projects  
+- 📈 **Scalable** – compatible with Databricks, Azure, Docker, Kubernetes  
+- 🔒 **Best practices** – CI/CD, monitoring, reproducibility, data quality  
 
-⚡ 2–3x faster start – skip boilerplate setup
+---
 
-🔧 General-purpose – works for Data, ML, and AI projects
+## 📂 Project Structure
 
-📈 Scalable – compatible with Databricks, Azure, Docker, Kubernetes
-
-🔒 Best practices – CI/CD, monitoring, reproducibility, data quality
-
-📂 Project Structure
+```text
 ai-project-template/
 ├─ configs/           # Configurations (Hydra, logging, training, data)
 ├─ data/              # Data (raw, interim, processed) – DVC supported
