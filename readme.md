@@ -1,7 +1,6 @@
-# 📘 AI Project Template
 
 <p align="center">
-  <img src="docs/logo.png" alt="AI Project Template Logo" width="120"/>
+  <img src="docs/logo.png" alt="AI Project Template Logo" width="300"/>
 </p>
 
 <p align="center">
